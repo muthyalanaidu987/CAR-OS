@@ -1,7 +1,6 @@
-# The Basekernel Operating System Kernel
-
-Basekernel is a simple operating system kernel for research, teaching, and fun.
-
+# CAR OS 
+car os is a simple operating system kernel for research, teaching, and fun.
+It is built using basekernel os.
 Basekernel is *not* a complete operating system, but it is a starting
 point for those who wish to study and develop new operating system code.
 If you want to build something *different* than Windows, Linux, or Multics,
@@ -15,9 +14,6 @@ From there, it's your job to write user-level programs and expand the system.
 To be clear, this is raw low-level code, not a production system.
 If you want to hack code and learn about operating system, you will like Basekernel.
 If you are looking for a new OS to run on your laptop, then this is not what you want.
-
-This project is led by Prof. Douglas Thain at the University of Notre Dame,
-with contributions from students, particularly Jon Westhoff and Kevin Wern.
 
 To learn more, see the [Basekernel Wiki](https://github.com/dthain/basekernel/wiki).
 
